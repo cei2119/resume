@@ -14,4 +14,3 @@
 *2017-2021*
 
 ## Professional Interests
-- Conservation
